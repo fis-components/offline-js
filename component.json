@@ -1,0 +1,10 @@
+{
+    "name": "offline-js",
+    "description": "Automatically detect when a browser is offline",
+    "repos": "https://github.com/HubSpot/offline.git",
+    "main": "offline.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.7.13"
+}
